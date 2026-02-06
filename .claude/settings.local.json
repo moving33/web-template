@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "WebSearch",
+      "Bash(node --version:*)",
+      "Bash(pnpm --version:*)",
+      "WebFetch(domain:next-intl.dev)",
+      "WebFetch(domain:ui.shadcn.com)",
+      "WebFetch(domain:chris.lu)",
+      "Bash(where:*)"
+    ]
+  }
+}

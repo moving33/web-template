@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.npm/
+node_modules/
+dist/
+build/
+.npm/
+target/
+out/
+.gradle/
+build/
