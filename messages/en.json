@@ -1,0 +1,54 @@
+{
+  "common": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "logout": "Logout",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "notFound": "Page not found",
+    "menu": "Menu",
+    "retry": "Try again",
+    "notFoundDesc": "The page you requested does not exist.",
+    "backHome": "Go back home"
+  },
+  "home": {
+    "title": "Web Template",
+    "description": "A full-stack web project template based on Next.js 16",
+    "features": "Features",
+    "getStarted": "Get Started",
+    "feature_typescript": "Strict type safety",
+    "feature_tailwind": "Utility-first styling",
+    "feature_shadcn": "Reusable UI components",
+    "feature_drizzle": "Type-safe PostgreSQL ORM",
+    "feature_intl": "i18n internationalization (ko, en)"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "Sample dashboard page",
+    "totalUsers": "Total Users",
+    "totalUsersValue": "1,234",
+    "totalUsersDesc": "+12% from last month",
+    "activeSessions": "Active Sessions",
+    "activeSessionsValue": "567",
+    "activeSessionsDesc": "Currently online",
+    "requests": "Requests",
+    "requestsValue": "89,012",
+    "requestsDesc": "Today",
+    "responseTime": "Response Time",
+    "responseTimeValue": "142ms",
+    "responseTimeDesc": "Average"
+  },
+  "auth": {
+    "login": "Login",
+    "loginDesc": "Sign in to your account",
+    "email": "Email",
+    "password": "Password",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "loginPending": "Logging in...",
+    "loginSuccess": "Login successful",
+    "loginError": "Login failed"
+  }
+}

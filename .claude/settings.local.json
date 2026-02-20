@@ -8,7 +8,24 @@
       "WebFetch(domain:next-intl.dev)",
       "WebFetch(domain:ui.shadcn.com)",
       "WebFetch(domain:chris.lu)",
-      "Bash(where:*)"
+      "Bash(where:*)",
+      "Bash(pnpm create:*)",
+      "Bash(npm:*)",
+      "Bash(/c/Users/jsoh/AppData/Roaming/npm/pnpm --version)",
+      "Bash(pnpm add:*)",
+      "Bash(pnpm install:*)",
+      "Bash(CI=true pnpm install:*)",
+      "Bash(pnpm exec husky:*)",
+      "Bash(pnpm approve-builds:*)",
+      "Bash(pnpm dlx:*)",
+      "Bash(SKIP_ENV_VALIDATION=true pnpm typecheck:*)",
+      "Bash(SKIP_ENV_VALIDATION=true pnpm build:*)",
+      "Bash(ls:*)",
+      "Bash(node -e:*)",
+      "Bash(# Next.js 16에서 middleware 파일 이름이 proxy.ts인지 확인 grep -r \"\"proxy\"\" /c/dev/toy/web-templete/node_modules/next/dist/server/lib/router-utils/*.js)",
+      "Bash(curl:*)",
+      "Bash(# Check server logs cat /c/Users/jsoh/AppData/Local/Temp/claude/C--dev-toy-web-templete/tasks/b2ec274.output)"
     ]
-  }
+  },
+  "dangerouslySkipPermissions": true
 }

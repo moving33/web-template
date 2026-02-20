@@ -1,0 +1,54 @@
+{
+  "common": {
+    "home": "홈",
+    "dashboard": "대시보드",
+    "login": "로그인",
+    "logout": "로그아웃",
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "notFound": "페이지를 찾을 수 없습니다",
+    "menu": "메뉴",
+    "retry": "다시 시도",
+    "notFoundDesc": "요청하신 페이지가 존재하지 않습니다.",
+    "backHome": "홈으로 돌아가기"
+  },
+  "home": {
+    "title": "웹 템플릿",
+    "description": "Next.js 16 기반 풀스택 웹 프로젝트 템플릿",
+    "features": "주요 기능",
+    "getStarted": "시작하기",
+    "feature_typescript": "엄격한 타입 안전성",
+    "feature_tailwind": "유틸리티 퍼스트 스타일링",
+    "feature_shadcn": "재사용 가능한 UI 컴포넌트",
+    "feature_drizzle": "PostgreSQL 타입 안전 ORM",
+    "feature_intl": "i18n 국제화 (ko, en)"
+  },
+  "dashboard": {
+    "title": "대시보드",
+    "description": "샘플 대시보드 페이지",
+    "totalUsers": "총 사용자",
+    "totalUsersValue": "1,234",
+    "totalUsersDesc": "전월 대비 +12%",
+    "activeSessions": "활성 세션",
+    "activeSessionsValue": "567",
+    "activeSessionsDesc": "현재 접속 중",
+    "requests": "요청 수",
+    "requestsValue": "89,012",
+    "requestsDesc": "오늘",
+    "responseTime": "응답 시간",
+    "responseTimeValue": "142ms",
+    "responseTimeDesc": "평균"
+  },
+  "auth": {
+    "login": "로그인",
+    "loginDesc": "계정에 로그인하세요",
+    "email": "이메일",
+    "password": "비밀번호",
+    "emailPlaceholder": "이메일을 입력하세요",
+    "passwordPlaceholder": "비밀번호를 입력하세요",
+    "loginButton": "로그인",
+    "loginPending": "로그인 중...",
+    "loginSuccess": "로그인 성공",
+    "loginError": "로그인 실패"
+  }
+}
